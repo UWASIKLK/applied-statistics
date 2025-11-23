@@ -10,8 +10,8 @@ This repository contains the assessment task and final project for the **Applied
 /applied-statistics
 ├── img/                # directory containing image files used in the repository
 ├── .gitignore          # lists files and directories that should be excluded
-├── problems.ipynb      # Jupyter Notebook containing solutions for each problem and the final project
 ├── README.md           # provides an overview of the repository
+├── problems.ipynb      # Jupyter Notebook containing solutions for each problem and the final project
 └── requirements.txt    # contains Python dependencies and libraries required to run the code in the repository
 ```
 
