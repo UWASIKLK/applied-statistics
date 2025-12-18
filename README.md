@@ -2,7 +2,7 @@
 
 ![AS](./img/vecteezy_person-draws-line-graph-using-blue-colored-pencil-amongst_69119759.jpg)
 
-This repository contains the assessment task and final project for the **Applied Statistic** module of the ATU Higher Diploma in Science in Computing in Data Analytics course.
+This repository contains the assessment task for the **Applied Statistic** module of the ATU Higher Diploma in Science in Computing in Data Analytics course.
 ***
 ## Repository Contents and Description
 
