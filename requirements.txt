@@ -1,12 +1,4 @@
-ipython
-numpy
-scipy
-statsmodels
-matplotlib
-pandas
-seaborn
-# sympy
-# nose
-# scikit-learn
-# qiskit[visualization]
-# yfinance
+matplotlib==3.7.2
+numpy==1.26.4
+pandas==2.0.3
+scipy==1.11.4
